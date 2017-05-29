@@ -1,0 +1,16 @@
+{
+  "name": "mini-selfbot",
+  "version": "1.0.0",
+  "description": "A minimal footprint Discord selfbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony ."
+  },
+  "repository": "https://github.com/Rayzr522/mini-selfbot",
+  "author": "Rayzr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "dotenv": "^4.0.0"
+  }
+}
